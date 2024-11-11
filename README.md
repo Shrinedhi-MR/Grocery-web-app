@@ -5,7 +5,7 @@ Welcome to the Grocery Web App! Our platform is designed to provide a seamless o
 
 - **Video Demo Link :** https://drive.google.com/file/d/1K3WHSy8rpCMtK2Ega6JLJAKZO4lpf5Vc/view?usp=sharing 
   
-- **Screenshots of installations & project execution :** 
+- **Screenshots of installations & project execution :** https://docs.google.com/document/d/1l_AqhhdYAkWz6TXka_mIM3dzpJP45G9x/edit?usp=sharing&ouid=116446865624800054596&rtpof=true&sd=true
 
 - **Project Documentation :** https://docs.google.com/document/d/1Z7s3QX0PgK9SWjAuzPlyqNZ5wkNo7ttL/edit?usp=sharing&ouid=116446865624800054596&rtpof=true&sd=true
 
